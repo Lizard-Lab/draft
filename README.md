@@ -13,3 +13,7 @@
 [知乎:豫章书院的魔鬼一面：绑架、囚禁、虐待、性侵……](https://zhuanlan.zhihu.com/p/85198704)
 
 [知乎:豫章书院案件里最大的难题！为什么会证据不足？](https://zhuanlan.zhihu.com/p/88560153)
+
+[知乎:如何看待 19 岁少女在「戒网瘾学校」被虐至死？](https://www.zhihu.com/question/24205341)
+
+[知乎:那些把孩子送去戒网瘾学校的家长是怎么想的？](https://www.zhihu.com/question/67605875)
