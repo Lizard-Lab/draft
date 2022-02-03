@@ -17,3 +17,7 @@
 [知乎:如何看待 19 岁少女在「戒网瘾学校」被虐至死？](https://www.zhihu.com/question/24205341)
 
 [知乎:那些把孩子送去戒网瘾学校的家长是怎么想的？](https://www.zhihu.com/question/67605875)
+
+[维基百科:LGBT回转治疗](https://zh.wikipedia.org/wiki/LGBT%E8%BF%B4%E8%BD%89%E6%B2%BB%E7%99%82#21%E4%B8%96%E7%B4%80)
+
+[维基百科:蘇聯精神病學的政治濫用](https://zh.wikipedia.org/wiki/%E8%98%87%E8%81%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E5%AD%B8%E7%9A%84%E6%94%BF%E6%B2%BB%E6%BF%AB%E7%94%A8)
