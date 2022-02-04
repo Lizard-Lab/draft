@@ -3,7 +3,7 @@
 有新的想法可以在 [issue](https://github.com/Lizard-Lab/draft/issues) 发起
 
 ## tips 
-如果需要收到讨论的更新通知，可以点击右上部分的 `watch`按钮，选择 `custom` ，再点击 `issues` 即可
+如果需要收到讨论的更新通知，可以点击右上部分的 <kbd>watch</kbd>按钮，选择 <kbd>custom</kbd> ，再点击 <kbd>issues</kbd> 即可
 
 ## 参考信息
 [维基百科:豫章书院修身教育专修学校](https://zh.wikipedia.org/wiki/%E8%B1%AB%E7%AB%A0%E4%B9%A6%E9%99%A2%E4%BF%AE%E8%BA%AB%E6%95%99%E8%82%B2%E4%B8%93%E4%BF%AE%E5%AD%A6%E6%A0%A1)
